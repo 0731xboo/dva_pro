@@ -13,3 +13,6 @@ npm-debug.log*
 
 package.json
 package-lock.json
+
+
+.editorconfig
